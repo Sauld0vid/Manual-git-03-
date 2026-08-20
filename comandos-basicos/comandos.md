@@ -57,3 +57,20 @@ $ git add .
 ```
 $ git add <nombre_archivo>
 ```
+
+## `git commit`:
+Registra los cambios confirmados en el repositorio. Crea un punto de control con un mensaje que describe los cambios realizados.
+
+### Sintaxis: 
+```
+$ git commit -m "Mensaje descriptivo"
+
+```
+
+## `git remote add`:
+crea una conexión entre tu repositorio Git local y el repositorio Git remoto, permitiéndote introducir y extraer cambios entre ellos:
+
+### Sintaxis: 
+```
+$ git remote add <repo_name> <remote_url>
+```
