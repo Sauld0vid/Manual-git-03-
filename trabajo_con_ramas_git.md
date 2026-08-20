@@ -17,3 +17,10 @@ Inicia siempre una nueva rama desde main actualizada para cada tarea específica
  Sube tu trabajo al repositorios remoto con git pus 
  *Abrir un pull request*
   En GitHub, solicita la unión (merge) de tu rama con la principal para que otros revisen el código antes de integrarlo.
+
+# descripcion general de las ramas
+Las ramas de Git son una característica esencial del sistema de control de versiones Git. Permiten a los desarrolladores trabajar en diferentes versiones de un proyecto simultáneamente sin afectar la rama principal. Además, las ramas permiten que varios desarrolladores trabajen en el mismo proyecto sin interferir entre sí. Al crear una rama para cada tarea o funcionalidad, los desarrolladores pueden trabajar de forma independiente e integrar sus cambios en la rama principal cuando estén listos. Las ramas también facilitan el seguimiento de los cambios y la posibilidad de revertir a versiones anteriores del código si fuera necesario.
+
+
+![alt text](https___dev-to-uploads.s3.amazonaws.com_uploads_articles_klq8rssetaq7arzgtwkr.webp)
+
