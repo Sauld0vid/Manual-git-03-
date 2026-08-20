@@ -84,3 +84,11 @@ Una vez que ejecutes este comando, el repositorio remoto reflejará todos los ca
 $ git push <remote> <branch>
 ```
 
+# comandos git 
+
+Git cuenta con diferentes comandos que permiten administrar proyectos y trabajar con repositorios y ramas. Entre los más utilizados se encuentra git init, que permite crear un nuevo repositorio; git clone, que sirve para descargar un repositorio existente; y git status, que muestra el estado actual de los archivos del proyecto.
+
+También se utiliza git add para preparar los cambios antes de guardarlos y git commit para registrar esos cambios en el historial del proyecto. Para trabajar con ramas se pueden utilizar comandos como git branch, que permite crear o consultar ramas, y git switch, que sirve para cambiar de una rama a otra.
+
+Otros comandos importantes son git push, utilizado para enviar los cambios desde el computador hacia GitHub, y git pull, que permite obtener los cambios más recientes del repositorio. Finalmente, git merge permite unir
+
