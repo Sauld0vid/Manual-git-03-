@@ -5,4 +5,7 @@ Con este sistema es posible crear un repositorio que contenga el código fuente 
 
 Git es una herramienta muy popular en la comunidad de desarrollo de software debido a su flexibilidad, velocidad y capacidad para manejar grandes proyectos. También es ampliamente utilizado en proyectos de código abierto, ya que permite a cualquier persona contribuir al proyecto y hacer seguimiento de los cambios realizados en el código fuente.
 
+## ¿Quien utiliza git?
+Git es bastante usado en la industria empresarial. la mayoria de las empresas dependen de la ingeniería de software para el desarrollo web, la creación de aplicaciones o la creación de software empresarial utilizan Git o una alternativa cercana. Asimismo, Los desarrolladores de software, ingenieros de DevOps y gerentes de proyectos y productos a menudo confían en Git para realizar un seguimiento de los cambios en el software y los proyectos. 
+
 
