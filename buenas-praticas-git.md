@@ -96,3 +96,16 @@ Las buenas prácticas en GitHub permiten trabajar de una manera más organizada,
 * GitHub Actions
 * GitHub Security
 * GitHub Pull Requests
+
+La documentación de Git es una valiosa fuente de información que te ayudará a utilizar Git de manera efectiva, resolver problemas y mantener un flujo de trabajo eficiente. Leerla te permitirá aprovechar al máximo esta poderosa herramienta de control de versiones.
+
+- La documentación oficial de Git: El sitio web oficial de Git proporciona documentación completa y detallada sobre todos los aspectos de Git. Aquí encontrarás información sobre comandos, conceptos, configuraciones, flujos de trabajo y mucho más. Se recomienda empezar por la sección "Git Basics" para obtener una base sólida sobre los conceptos y comandos fundamentales.
+
+- Referencia de comandos: La documentación de Git incluye una referencia completa de todos los comandos disponibles en Git. Puedes consultar la descripción de cada comando, sus opciones y cómo utilizarlo correctamente. Esto es especialmente útil cuando encuentres un comando desconocido o necesites entender en detalle cómo funciona.
+
+- Manuales de Git: La documentación de Git también incluye varios manuales específicos sobre temas particulares. Algunos ejemplos son: Pro Git, Git Glossary,Git Hooks,Git Attributes,etc.
+
+- Ejemplos y tutoriales: Además de la documentación técnica, el sitio web de Git ofrece una sección de "Git Tutorials" con ejemplos prácticos y tutoriales paso a paso. Estos tutoriales cubren una amplia gama de temas, desde los conceptos básicos hasta flujos de trabajo avanzados, colaboración y más.
+
+- Explorando Git en la línea de comandos: La documentación de Git te enseñará a utilizar los comandos, pero también es útil para explorar Git directamente desde la línea de comandos. Puedes utilizar la opción --help con cualquier comando para obtener información breve sobre su uso y opciones. Por ejemplo, puedes ejecutar git commit --help para obtener información sobre el comando commit.
+
