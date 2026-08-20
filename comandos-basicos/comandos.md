@@ -31,7 +31,29 @@ $ git config --global user.email "tu@email.com"
 ## `git ssssss`:
 Este se utiliza para clonar repositorios existente en un nuevo directorio y de paso, descarga todo lo que esta en el.
 
-### Ejemplo:
+### Sintaxis:
 ```
 $ git clone <URL_del_repositorio>
+```
+
+## `git status`:
+Este comando nos muestra todos los cambios realizados en el repositorio. Te dice qué archivos han cambiado, están pendientes de ser confirmados o no están siendo rastreados por Git.
+
+### Sintaxis:
+```
+$ git status
+```
+
+
+## `git add`:
+El comando git add añade tus cambios al área de preparación. Para este hay dos sintaxis, ya sea para subir unos o todos los archivos.
+
+### Sintaxis 1: (añade todos los archivos)
+```
+$ git add .
+```
+
+### Sintaxis 2: 
+```
+$ git add <nombre_archivo>
 ```
