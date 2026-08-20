@@ -19,16 +19,16 @@ git init
 
 El resultado en la terminal será: `Initialized empty Git repository in /ruta/a/tu/carpeta/mi-proyecto-web/.git/`
 
-## `git mmmmmmmm`:
-Este comando sirve para configurar y personalizar el comportamiento del repositorio o el usuario. Puedes configurar tu nombre de uduario, direccion de correo electrónico, color de interfaz
+## `git config`:
+Este comando sirve para configurar y personalizar el comportamiento del repositorio o el usuario. Puedes configurar tu nombre de usuario, direccion de correo electrónico, color de interfaz
 
-### Ejemplo:
+### Sintaxis:
 ```
 $ git config --global user.name "Tu Nombre"
 $ git config --global user.email "tu@email.com"
 ```
 
-## `git ssssss`:
+## `git clone`:
 Este se utiliza para clonar repositorios existente en un nuevo directorio y de paso, descarga todo lo que esta en el.
 
 ### Sintaxis:
@@ -37,7 +37,7 @@ $ git clone <URL_del_repositorio>
 ```
 
 ## `git status`:
-Este comando nos muestra todos los cambios realizados en el repositorio. Te dice qué archivos han cambiado, están pendientes de ser confirmados o no están siendo rastreados por Git.
+Este comando nos muestra todos los cambios realizados en el repositorio. Te dice que archivos han cambiado, están pendientes de ser confirmados o no están siendo rastreados por Git.
 
 ### Sintaxis:
 ```
