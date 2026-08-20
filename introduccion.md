@@ -13,7 +13,7 @@ Veremos que si aplicamos bien el (Git) practicamente mejoraremos en los proyecto
 - mas seguro para los proyectos
 - mas secillo de revisar 
 
-y por ultimo veremos que es menos propenso a cometer errores. 
+veremos que es menos propenso a cometer errores. 
 Algunas estructuras habituales son: 
 
 -mi_proyecto
