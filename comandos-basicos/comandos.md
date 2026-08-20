@@ -27,3 +27,11 @@ Este comando sirve para configurar y personalizar el comportamiento del reposito
 $ git config --global user.name "Tu Nombre"
 $ git config --global user.email "tu@email.com"
 ```
+
+## `git ssssss`:
+Este se utiliza para clonar repositorios existente en un nuevo directorio y de paso, descarga todo lo que esta en el.
+
+### Ejemplo:
+```
+$ git clone <URL_del_repositorio>
+```
