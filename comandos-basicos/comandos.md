@@ -74,3 +74,13 @@ crea una conexión entre tu repositorio Git local y el repositorio Git remoto, p
 ```
 $ git remote add <repo_name> <remote_url>
 ```
+
+## `git push`:
+Sincroniza tu repositorio remoto con el repositorio local.
+Una vez que ejecutes este comando, el repositorio remoto reflejará todos los cambios que hayas confirmado localmente.
+
+### Sintaxis: 
+```
+$ git push <remote> <branch>
+```
+
