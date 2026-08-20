@@ -18,3 +18,12 @@ git init
 ```
 
 El resultado en la terminal será: `Initialized empty Git repository in /ruta/a/tu/carpeta/mi-proyecto-web/.git/`
+
+## `git mmmmmmmm`:
+Este comando sirve para configurar y personalizar el comportamiento del repositorio o el usuario. Puedes configurar tu nombre de uduario, direccion de correo electrónico, color de interfaz
+
+### Ejemplo:
+```
+$ git config --global user.name "Tu Nombre"
+$ git config --global user.email "tu@email.com"
+```
