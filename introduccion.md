@@ -23,3 +23,10 @@ Algunas estructuras habituales son:
 y por ultimo uno de los amas usados que es (Github) 
 
 
+-Ya en lo ultimos encontraremos los trabajos con ramas, practicamente esto nos dice que cuanto trabajamos en un proyecto usando (Github) las ramas son unas herramientas de ayudas para los programadores ya que asi cada quien trabaja por separado y no dañan el proyecto original, nos dice tambien que una rama se entiende que es una copia del proyecto original y con esta copia vamos apoder editar el proyecto original, veremos los flujos de trabajos que son:
+
+-crear una rama 
+-hacer cambios 
+-publicar rama 
+
+Etc y veremos para que sirven estos flujos de trabajos.
