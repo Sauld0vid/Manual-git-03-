@@ -5,3 +5,21 @@
 
 
 - En esta segunda parte vamos apoder conocer mas de los comandos basicos del (Git) que son: crear repositorios, copiar uno existente , editar lineas de codigos de uno existente que tengan errores, bugs u otra anomalia y volver a subirlo, vamos a poder entender que hay miles de comandos existentes pero aun asi los antes mensionados son los mas basicos y mas usados, vamos a poder conocer algunos de ellos como (Git init) y conoceremos para que es usado tambien conoceremos el comando (Git clone) y su uso que practicamente es clonar como su nombre lo dice, otro codigo que conoceremos es el (Git config) y su uso y asi como esos codigos veremos muchos mas codigos de (Git).
+
+
+- En la tercera parte vamos a aprender las buenas practicas del (Git) que practicamente nos dice que (Git) no debe entenderse como un sitio de almacenamiento de codigos si no un control de versiones de codigos y revision automatica.
+Veremos que si aplicamos bien el (Git) practicamente mejoraremos en los proyectos y cometeremos menos errores ya que:
+- Es mas seguro mas los nuevos desarrolladores
+- mas seguro para los proyectos
+- mas secillo de revisar 
+
+y por ultimo veremos que es menos propenso a cometer errores. 
+Algunas estructuras habituales son: 
+
+-mi_proyecto
+-src/
+-tests/
+-docs/
+y por ultimo uno de los amas usados que es (Github) 
+
+
