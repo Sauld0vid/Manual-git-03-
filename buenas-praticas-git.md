@@ -50,3 +50,35 @@ Un buen README debería incluir, según el proyecto:
 - Cómo contribuir.
 - Licencia.
 Buena práctica: mantener el README actualizado. Una documentación desactualizada puede ser incluso más perjudicial que no tener documentación.Buena práctica: mantener el README actualizado. Una documentación desactualizada puede ser incluso más perjudicial que no tener documentación.
+
+## Crear commits descriptivos 
+Los commits deben explicar claramente qué cambio se realizó.
+
+Buenos ejemplos:
+
+feat: agregar sistema de login
+fix: corregir error de autenticación
+docs: actualizar README
+
+Se deben evitar mensajes poco claros como:
+
+cambios
+update
+arreglos
+final
+
+## Utilizar pull requests 
+
+Los Pull Requests permiten revisar los cambios antes de agregarlos a la rama principal. Cada Pull Request debería explicar qué cambios se realizaron y qué problema solucionan.
+
+La revisión de código ayuda a encontrar errores, mejorar la calidad del programa y asegurar que los cambios cumplen con las reglas del proyecto.
+
+## Seguridad 
+Nunca se deben subir contraseñas, tokens, API Keys o información privada al repositorio. Para evitarlo se puede utilizar un archivo .gitignore y variables de entorno.
+
+GitHub también proporciona herramientas como Dependabot, Secret Scanning y Code Scanning, que ayudan a detectar vulnerabilidades y problemas de seguridad.
+
+## Automatizacióm
+ GitHub Actions permite automatizar tareas como ejecutar pruebas, comprobar el código y realizar despliegues. Por ejemplo, cada vez que se realiza un Pull Request se pueden ejecutar automáticamente las pruebas del proyecto.
+
+Esto ayuda a detectar errores antes de incorporar los cambios a main.
