@@ -82,3 +82,17 @@ GitHub también proporciona herramientas como Dependabot, Secret Scanning y Code
  GitHub Actions permite automatizar tareas como ejecutar pruebas, comprobar el código y realizar despliegues. Por ejemplo, cada vez que se realiza un Pull Request se pueden ejecutar automáticamente las pruebas del proyecto.
 
 Esto ayuda a detectar errores antes de incorporar los cambios a main.
+
+## Documentación y mantenimiento 
+Un proyecto debe mantener su documentación actualizada. Si cambia la forma de instalar, ejecutar o utilizar el programa, también debe actualizarse el README.md.
+
+Además, es importante mantener las dependencias actualizadas, corregir errores y revisar periódicamente la seguridad del proyecto.
+
+## Conclucion
+Las buenas prácticas en GitHub permiten trabajar de una manera más organizada, segura y profesional. Utilizar correctamente las ramas, commits, Pull Requests, documentación y herramientas de seguridad facilita el trabajo en equipo y ayuda a mantener la calidad del proyecto.
+
+## Fuentes 
+* Github Docs
+* GitHub Actions
+* GitHub Security
+* GitHub Pull Requests
