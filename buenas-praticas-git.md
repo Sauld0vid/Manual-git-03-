@@ -11,7 +11,7 @@ Aplicar buenas prácticas permite que un proyecto sea:
 
 GitHub recomienda explícitamente utilizar documentación, ramas, revisiones mediante Pull Requests y mecanismos de seguridad para mantener repositorios saludables.
 
-##Mantener una estructura clara del repositorio
+## Mantener una estructura clara del repositorio
 Una de las primeras buenas prácticas es organizar correctamente los archivos del proyecto.
 
 Una estructura habitual podría ser:
